@@ -1,0 +1,74 @@
+body{
+	font-family: sans-serif;
+	background: url("corona.jpg");
+	background-size: cover; 
+	background-attachment: fixed;
+}
+
+h1{
+	text-align: center;
+	font-weight: 1300;
+}
+
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form-login{
+	border: none;
+	 border-bottom: 1px solid #999;
+	 margin-bottom: 15px;
+	 color: #999;
+	 width: 100%;
+	 padding: 15px 0px;
+	 background: none;
+}
+
+.form-password{
+	border: none;
+	 border-bottom: 1px solid #999;
+	 margin-bottom: 15px;
+	 color: #999;
+	 width: 100%;
+	 padding: 15px 0px;
+	 background: none;
+}
+
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.tombol_register{
+	background: #1E90FF;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}

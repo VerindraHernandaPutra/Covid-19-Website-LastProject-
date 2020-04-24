@@ -1,0 +1,91 @@
+h4{
+	text-align: left;	
+}
+
+h4.b{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-weight: 1300;
+}
+
+.tulisan_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kotak_pertanyaan{
+	width: 1000px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+	box-shadow: 0 0 2px 2px #888;
+}
+
+form{
+	font-size: 1000;
+}
+
+a.cek_diri{
+	background: #1E90FF;
+	text-decoration: none;
+	color: white;
+	font-size: 15pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 25px;
+}
+
+a.cek_diri:hover {
+	background: #00BFFF;
+}
+
+a.kembali{
+	background: #B22222;
+	text-decoration: none;
+	color: white;
+	font-size: 15pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 25px;
+}
+
+a.kembali:hover {
+	background: #FF0000;
+}
+
+input.ya{
+	background: #1E90FF;
+	text-decoration: none;
+	color: white;
+	font-size: 15pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 25px;
+}
+
+input.ya:hover {
+	background: #00BFFF;
+}
+
+a.tidak{
+	background: #B22222;
+	text-decoration: none;
+	color: white;
+	font-size: 15pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 25px;
+}
+
+a.tidak:hover {
+	background: #FF0000;
+}
+
+

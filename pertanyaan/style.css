@@ -1,0 +1,60 @@
+body{
+	font-family: sans-serif;
+	background: url("corona.jpg");
+	background-size: cover; 
+	background-attachment: fixed;
+}
+
+h1{
+	text-align: center;
+	font-weight: 1300;
+}
+
+.tulisan{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kotak_isi{
+	width: 500px;
+	background: white;
+	margin: 80px auto;
+	padding: 30px 20px;
+	box-shadow: 0 0 2px 2px #888;
+
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form-isi{
+	border: none;
+	 border-bottom: 1px solid #999;
+	 margin-bottom: 15px;
+	 color: #999;
+	 width: 100%;
+	 padding: 15px 0px;
+	 background: none;
+}
+
+input.tombol_konfirmasi{
+	background: #1E90FF;
+	text-decoration: none;
+	color: white;
+	font-size: 15pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 25px;
+}
+
+input.tombol_konfirmasi:hover {
+	background: #00BFFF;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
